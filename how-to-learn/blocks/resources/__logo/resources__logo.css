@@ -1,0 +1,8 @@
+.resources__logo{
+  width: 275px;/*Написал не так, как в брифе, чтобы логотипы были прижаты друг к другу*/
+  height: 38px;
+}
+.resources__logo:hover{
+  opacity: 0.75;
+  transition-duration: 0.5s;
+}

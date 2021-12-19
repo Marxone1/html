@@ -1,0 +1,10 @@
+.footer__list-item{
+  color: white;
+  margin-left: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+.footer__list-item:hover{
+  opacity: 0.75;
+  transition-duration: 0.5s;
+}

@@ -1,0 +1,7 @@
+.digits{
+  margin: 100px auto;
+  display: block;
+  width: 100%;
+  align-self: center;
+  z-index: 5;
+}

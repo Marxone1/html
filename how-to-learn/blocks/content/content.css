@@ -1,0 +1,10 @@
+.content{
+  height: 100%;
+  position: relative;
+  display: block;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: 1600px;
+  min-width: 1100px;
+  margin: auto;
+}

@@ -1,0 +1,8 @@
+.footer{
+  min-height: 350px;
+  display: flex;
+  width: 100%;
+  align-self: center;
+  position: relative;
+  background-color: #1f1f1f;
+}
